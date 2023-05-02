@@ -19,6 +19,7 @@ public class Main {
         System.out.println(paper);
     }
 
+
     public static void task2 () {
         System.out.println("Задача 2");
         var dog = 8 + 4;
